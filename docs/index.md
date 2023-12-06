@@ -5,6 +5,7 @@
     1. [BPMN](bpmn.md)
     2. [Customer Journey](customer-journey.md)
     3. [Conclusie](conclusie.md)
+   4. [Knelpunten](knelpunten.md)
 4. [Aanpak](aanpak.md)
     1. Milestones
     2. [Wireframes](wireframes)
