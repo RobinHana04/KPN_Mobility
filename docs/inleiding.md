@@ -1,0 +1,10 @@
+# Inleiding
+Dit hoofdstuk verkent de context van de opdracht voor het ontwikkelen van een mobiliteitsapplicatie voor KPN Telecom. KPN, voluit Koninklijke PTT Nederland, heeft zijn oorsprong in 1989 en is sindsdien geëvolueerd tot een toonaangevend telecombedrijf. Met een geschiedenis die begon met de fysieke infrastructuur naar woningen, heeft KPN zich ontwikkeld tot een innovatieve speler in de telecommunicatie, met onder andere de claim van het leveren van het beste 5G-netwerk ter wereld.
+
+Naast traditionele telecommunicatiediensten biedt KPN ook televisieservices, cloudopslag en datacenters. Duurzaamheid staat hoog op de agenda, met initiatieven zoals het gebruik van groene stroom, het planten van bomen en een focus op glasvezel als de nieuwe norm voor connectiviteit, met als doel 85 tot 90% glasvezeldekking in 2025.
+
+De missie van KPN, samengevat als "Connect, Activate, Grow", streeft ernaar iedereen in Nederland te verbinden met een duurzame toekomst, gebruikmakend van technologieën zoals glasvezel en mobiele netwerken. De kernwaarden van het bedrijf omvatten lef, vertrouwen en groei.
+
+In de context van mobiliteit heeft KPN een vervoersbeleid opgesteld met als doel duurzaam vervoer zo aantrekkelijk mogelijk te maken. Dit beleid omvat de behoefte aan een nauwkeurige fiscale onderbouwing van zakelijke en privékilometers, evenals jaarlijkse beoordelingen voor het leasen van voertuigen. Het streven is om grip te krijgen op het beheersen en verlagen van reisbewegingen en gerelateerde kosten, waarbij een dashboard en een mobiele app cruciale instrumenten worden om deze doelen te bereiken. Deze mobiliteitsapplicatie moet niet alleen functioneel zijn maar ook inclusief, rekening houdend met medewerkers met beperkingen.
+
+Dit hoofdstuk legt de basis voor het begrip van de complexe behoeften en doelstellingen van KPN, waarmee de ontwikkeling van de mobiliteitsapplicatie wordt ingeleid om een efficiënt en duurzaam beheer van reisbewegingen en kosten te faciliteren.

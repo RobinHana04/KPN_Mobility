@@ -1,4 +1,4 @@
-### Inhoudsopgave
+# Inhoudsopgave
 1. [Inleiding](inleiding.md)
 2. [Organisatorische-context](organisatorische-context.md)
 3. [Aanleiding](aanleiding.md)
