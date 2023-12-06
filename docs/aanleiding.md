@@ -1,0 +1,7 @@
+# Aanleiding
+
+Dit hoofdstuk behandelt hoe de opdracht is ontstaan. Er zijn diverse groepen die betrokken zijn bij deze werkgever, elk met een eigen interpretatie omtrent de software die gebouwd moet worden. Wij leggen hierbij onze aanpak uit.
+
+De algemene doelstelling van de opdrachtgever is dat de mobiliteit van al haar diverse medewerkers op een overzichtelijke manier wordt bijgehouden. Hierbij is het ook van belang dat de hoeveelheid CO2 wordt berekend per reisbeweging, per voertuigtype en per medewerker. Naast het berekenen van de CO2, moet er ook een mogelijkheid zijn om de reiskosten die de medewerker maakt te declareren met daarbij onderscheid in type medewerkers, met daarbij lease voertuig checks. Ten slotte moet de opdrachtgever een overzicht kunnen genereren van haar CO2-uitstoot die betrekking heeft op de reisbewegingen van haar medewerkers. 
+
+Op dit moment is hier geen oplossing voor, en gebeurt alles handmatig. Een softwareoplossing is nodig om alle processen te vereenvoudigen, zowel voor de medewerker als de manager. Uiteindelijk wil de opdrachtgever deze oplossingen in de praktijk toepassen en het voor haar medewerkers makkelijker maken om alles rondom declaraties, CO2 en reisbewegingen te beheren. Als de opdracht succesvol is afgerond, zal de functionaliteit worden getoond aan de product owners die hierbij betrokken waren.
